@@ -10,8 +10,10 @@ __pycache__/
 .DS_Store?
 *.DS_Store
 
+
 # VS CODE
 .vscode
+
 
 # Distribution / packaging
 .Python
@@ -212,7 +214,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-# Artifacts
-artifacts/json/*.json
-artifacts/pdf/*.pdf
